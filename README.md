@@ -6,7 +6,7 @@ I developed this project out of a personal need to simplify complex compliance w
 
 ## Deployment
 
-This application is deployed on [Vercel](https://vercel.com). You can view the live application [here](YOUR_VERCEL_DEPLOYMENT_URL).
+This application is deployed on [Vercel](https://vercel.com). You can view the live application [here](compliance-framework.vercel.app).
 
 ## GitHub Repository
 
