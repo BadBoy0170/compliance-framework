@@ -10,4 +10,4 @@ This application is deployed on [Vercel](https://vercel.com). You can view the l
 
 ## GitHub Repository
 
-The source code for this project is available on [GitHub](YOUR_GITHUB_REPOSITORY_URL).
+The source code for this project is available on [GitHub](https://github.com/BadBoy0170/compliance-framework).
