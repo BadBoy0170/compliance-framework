@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Compliance Framework
+
+This project is a Compliance Framework application built with [Next.js](https://nextjs.org). It provides tools and reports related to IT Risk Compliance.
+
+## Deployment
+
+This application is deployed on [Vercel](https://vercel.com). You can view the live application [here](YOUR_VERCEL_DEPLOYMENT_URL).
 
 ## Getting Started
 
@@ -29,8 +35,6 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## GitHub Repository
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The source code for this project is available on [GitHub](YOUR_GITHUB_REPOSITORY_URL).
